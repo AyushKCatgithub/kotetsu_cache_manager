@@ -1,0 +1,19 @@
+name: kotetsu_cache_manager
+homepage: https://github.com/AyushKCatgithub/kotetsu_cache_manager
+description: A lightweight in-memory and persistent cache manager with TTL and LRU.
+version: 0.0.1
+environment:
+  sdk: '>=2.18.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  shared_preferences: ^2.2.2
+  json_annotation: ^4.8.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  test: ^1.24.0
+  build_runner: ^2.4.6
+  json_serializable: ^6.7.1
