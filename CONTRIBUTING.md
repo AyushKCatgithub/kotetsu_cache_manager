@@ -10,7 +10,7 @@ Click the **Fork** button at the top of the GitHub page.
 
 ### 2. Clone your fork
 ```bash
-git clone https://github.com/<your-username>/kotetsu_cache_manager.git
+git clone https://github.com/AyushKCatgithub/kotetsu_cache_manager.git
 cd kotetsu_cache_manager
 ```
 
